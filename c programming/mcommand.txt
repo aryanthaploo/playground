@@ -1,0 +1,9 @@
+list of commands for cmd
+
+cd .. -> go back to previous directory
+
+tree
+
+cd "directory name"
+
+ help
